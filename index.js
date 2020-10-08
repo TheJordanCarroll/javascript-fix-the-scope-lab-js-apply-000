@@ -31,4 +31,8 @@ var funkyFunction = function outsideFunction() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction
 
+function finalFunction() {
+  var theFunk = 'cat'
+  return anim
+}
 console.log(funkyFunction()())
