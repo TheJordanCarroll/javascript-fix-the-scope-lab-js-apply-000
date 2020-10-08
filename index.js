@@ -32,7 +32,7 @@ var funkyFunction = function outsideFunction() {
 var theFunk = funkyFunction
 
 function finalFunction() {
-  var theFunk = 'cat'
-  return anim
+  var funkadelic = 'cat'
+  return FUNKY!
 }
 console.log(funkyFunction()())
