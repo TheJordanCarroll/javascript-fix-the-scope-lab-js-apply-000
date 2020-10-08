@@ -33,5 +33,5 @@ var theFunk = console.log(funkyFunction()())
 
 function finalFunction() {
   var funkadelic = 'theFunk'
-  return 'FUNKY!'
+  return funkadelic
 }
