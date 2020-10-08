@@ -33,6 +33,6 @@ var theFunk = funkyFunction
 
 function finalFunction() {
   var funkadelic = 'theFunk'
-  return FUNKY!
+  return 'FUNKY!'
 }
 console.log(funkyFunction()())
